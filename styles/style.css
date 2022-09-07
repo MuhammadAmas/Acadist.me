@@ -138,6 +138,8 @@ h6 {
 }
 
 .firstSection .text p {
+    text-align: justify;
+    text-justify: inter-character;
     width: 80%;
     font-size: 1.2rem;
 }
@@ -160,6 +162,8 @@ h6 {
 
 .about-us p {
     font-size: 1.2rem;
+    text-align: justify;
+    text-justify: inter-character;
 }
 
 .messagesection {
