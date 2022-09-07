@@ -121,15 +121,21 @@ h6 {
 .firstSection {
     color: var(--darkBlue);
     display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin: 9em auto;
+    margin: 9em 0;
+    /* margin-top: 9em; */
 }
 
 .firstSection .text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     font-size: 1rem;
     color: var(--darkBlue);
-    margin-left: 1em;
+    /* margin-left: 1em; */
     min-width: 50%;
 }
 

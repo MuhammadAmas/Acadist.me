@@ -44,8 +44,17 @@
         left: 0;
     }
 
+    .firstSection{
+        flex-direction: column;
+        gap: 4em;
+    }
+
     .firstSection .text h2 {
-        font-size: 2rem;
+        font-size: 1.6rem;
+    }
+
+    .firstSection .text p {
+        text-align: center;
     }
 
     .about-us {
