@@ -124,7 +124,7 @@ h6 {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin: 9em 0;
+    margin: 9em auto;
     /* margin-top: 9em; */
 }
 
