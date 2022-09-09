@@ -48,6 +48,10 @@ h6 {
     align-items: center;
 }
 
+.navbar-logo img {
+    width: 15rem;
+}
+
 .nav-menu {
     display: flex;
     align-items: center;
