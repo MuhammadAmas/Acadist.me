@@ -20,4 +20,6 @@ We made the registration process for tutors very easy by getting yourself regist
 - **[Instagram](https://www.instagram.com/acadist.me)**
 - **[LinkedIn](https://www.linkedin.com/company/acadist)**
 
+Contact Us: [acadist.me@gmail.com](acadist.me@gmail.com)
+
 ##### For more information visit: [https://acadist.me](https://acadist.me)
