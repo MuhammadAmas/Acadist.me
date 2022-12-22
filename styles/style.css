@@ -319,14 +319,8 @@ footer {
 .moreinfo {
     column-count: 2;
     column-gap: 12em;
+    margin: auto;
 }
-
-/* .moreinfo ul{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-} */
 
 .moreinfo ul li {
     list-style: none;
