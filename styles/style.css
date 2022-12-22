@@ -299,7 +299,7 @@ footer {
     display: flex;
     flex-direction: column;
     gap: 2em;
-    margin: 2em 0;
+    /* margin: 2em 0; */
 }
 
 .messagebox h2 {
@@ -320,6 +320,13 @@ footer {
     column-count: 2;
     column-gap: 12em;
 }
+
+/* .moreinfo ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} */
 
 .moreinfo ul li {
     list-style: none;
